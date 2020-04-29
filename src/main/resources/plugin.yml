@@ -1,0 +1,3 @@
+name: PlayerSimulator
+main: me.allen.playersimulator.PlayerSimulator
+version: 1.0.0
